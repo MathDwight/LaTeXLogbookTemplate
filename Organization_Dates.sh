@@ -3,11 +3,10 @@
 #	This script makes the {YEAR}/{MONTH}/{DAY}.tex folder structure for use with 
 #	my journal template.
 #	
-#
-#
+# updated range of yeares to 2018 - 2023, MathDwight, 2012-12-13
+# Thank you riboch 
 #
 # riboch, 2014-04-24
-# Thank you riboch: updated range of yeares to 2018 - 2023: MathDwight, 2012-12-13
 
 # High level folder structure
 YEARFROM=2018
