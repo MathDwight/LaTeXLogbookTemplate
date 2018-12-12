@@ -7,10 +7,11 @@
 #
 #
 # riboch, 2014-04-24
+# Thank you riboch: updated range of yeares to 2018 - 2023: MathDwight, 2012-12-13
 
 # High level folder structure
-YEARFROM=2017
-YEARTO=2020
+YEARFROM=2018
+YEARTO=2023
 
 
 #Number of days in each month, leaps years handled later.
